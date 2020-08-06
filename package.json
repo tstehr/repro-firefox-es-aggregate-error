@@ -1,0 +1,16 @@
+{
+  "name": "repro-firefox-es-aggregate-error",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "es-aggregate-error": "^1.0.3"
+  },
+  "scripts": {
+    "build": "yarn run webpack"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.12",
+    "webpack": "^4.17.1"
+  }
+}
